@@ -8,7 +8,7 @@ CSDN博客地址：https://blog.csdn.net/m0_47220500/article/details/125133740
 
 B站运行视频：暂无
 
-项目下载地址：http://shiyuncode.com/details?id=4
+项目下载地址：http://www.manoncode.cn/details?id=4
 
 
 
